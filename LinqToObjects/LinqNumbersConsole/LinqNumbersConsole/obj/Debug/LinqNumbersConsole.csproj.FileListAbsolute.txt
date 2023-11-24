@@ -1,0 +1,7 @@
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\bin\Debug\LinqNumbersConsole.exe.config
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\bin\Debug\LinqNumbersConsole.exe
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\bin\Debug\LinqNumbersConsole.pdb
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\obj\Debug\LinqNumbersConsole.csproj.AssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\obj\Debug\LinqNumbersConsole.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\obj\Debug\LinqNumbersConsole.exe
+C:\Users\nesterenko_sy\source\repos\LinqNumbersConsole\LinqNumbersConsole\obj\Debug\LinqNumbersConsole.pdb

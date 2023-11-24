@@ -1,0 +1,7 @@
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\obj\Debug\LinqSampConsole.csproj.AssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\obj\Debug\LinqSampConsole.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\bin\Debug\LinqSampConsole.exe.config
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\bin\Debug\LinqSampConsole.exe
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\bin\Debug\LinqSampConsole.pdb
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\obj\Debug\LinqSampConsole.exe
+C:\Users\nesterenko_sy\source\repos\LinqSampConsole\LinqSampConsole\obj\Debug\LinqSampConsole.pdb

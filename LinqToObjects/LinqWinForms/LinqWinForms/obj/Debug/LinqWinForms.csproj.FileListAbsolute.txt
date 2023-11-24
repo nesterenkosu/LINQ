@@ -1,0 +1,10 @@
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\bin\Debug\LinqWinForms.exe.config
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\bin\Debug\LinqWinForms.exe
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\bin\Debug\LinqWinForms.pdb
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.csproj.AssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.Form1.resources
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.Properties.Resources.resources
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.csproj.GenerateResource.cache
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.exe
+C:\Users\nesterenko_sy\source\repos\LinqWinForms\LinqWinForms\obj\Debug\LinqWinForms.pdb
